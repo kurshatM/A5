@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "main": "Query1.js",
   "scripts": {
-    "q1": "node Query1.js",
-    "q2": "node Query2.js",
-    "q3": "node Query3.js",
-    "q4": "node Query4.js",
-    "q5": "node Query5.js"
+    "q1": "node Queries/Q1.js",
+    "q2": "node Queries/Q2.js",
+    "q3": "node Queries/Q3.js",
+    "q4": "node Queries/Q4.js",
+    "q5": "node Queries/Q5.js"
   },
   "dependencies": {
     "mongodb": "^6.16.0"
