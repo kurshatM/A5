@@ -235,12 +235,9 @@ Execute queries individually using the npm scripts above, or extend the `package
 See LICENSE file for details.
 
 
-
-
-AI Disclosure:
+## AI Disclosure:
 
 Used Github Copilot to write readme
 
 Prompt: Write readme
 
-# A5
